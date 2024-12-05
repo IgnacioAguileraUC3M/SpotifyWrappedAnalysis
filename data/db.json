@@ -1,0 +1,368 @@
+[
+    {
+        "top_artists": ["kaze", "hard_gz", "nikone", "kendrick lamar", "luck"],
+        "top_song": ["cobarde", "fugitivo", "money trees", "todo cambió", "boom boom clap"],
+        "minutes_listened": 33595,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["cruz cafuné", "quevedo", "c.tangana", "mora", "tainy"],
+        "top_song": ["movezz en silencio", "alexademie", "nuevas en la ciudad", "gris", "cúrame"],
+        "minutes_listened": 52619,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["saiko", "nicki nicole", "trueno", "luck ra", "duki"],
+        "top_song": ["cristal", "antidepresivos", "perros&gata$", "desquite", "una última vez"],
+        "minutes_listened": 79169,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["feid", "c.tangana", "relsb", "jay wheeler", "rauw alejandro"],
+        "top_song": ["offline", "empelotica", "amor de mi vida", "luna", "kyoto"],
+        "minutes_listened": 43573,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["tate mcrae", "bad gyal", "dua lipa", "taylor swift", "la mafia del amor"],
+        "top_song": ["skit", "its ok im ok", "perdió este culo", "new woman", "la que no se mueva"],
+        "minutes_listened": 37844,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["bee gees", "micheael jackson", "bad gyal", "bob marley", "cigarettes after sex"],
+        "top_song": ["end of beginning", "psycho", "massachussetts", "getup, stand up", "noche de travesura"],
+        "minutes_listened": 79704,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["wos", null, null, null, null],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["toby fox", "kaze", "grecas", "toni anzis", "jovanotti"],
+        "top_song": ["fruto", "cindy nero", "la molecula de dios", "dont forget", "taxi driver"],
+        "minutes_listened": 36146,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["myke towers", null, null, null, null],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["extremoduro", "joe hisaishi", "a$ap rocky", "kanye west", "dover"],
+        "top_song": ["serenade", "sunday bloody sunday", "dumb", "in the aeroplane over the sea", "otherside"],
+        "minutes_listened": 40293,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["guitarricadelafuente", "recycledj", "cigarettes after sex", "cruz cafuné", "mora"],
+        "top_song": ["amor ≠ cristal", "florian wirtz", "cabeza de ratón", "tan frio", "nacido pa ganar"],
+        "minutes_listened": 98850,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["anitta", "ice nine kills", "bring me the horizon", "omar montes", "coldplay"],
+        "top_song": ["akureyri", "hip to be scared", "i like the way you kiss me", "mirage-for assassin's creed mirage", "la sevillana - sevillanas"],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["la élite", "bad gyal", "cruz cafuné", "carolina durante", "maría escarmiento"],
+        "top_song": ["manos rotas", "último beso", "lima y cilantro", "stone island", "electric bby"],
+        "minutes_listened": 83791,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["la vida bohème", "wisin & yandel", "daddy yankee", "rawayana", "juan luis guerra 4.40"],
+        "top_song": ["world hold on", "atmosphere", "candy", "beso (fruta fresca)", "wasa wasa"],
+        "minutes_listened": 36009,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["bad bunny", "the weekend", "quevedo", "feid", "el canto del loco"],
+        "top_song": ["alucin", "la distancia", "qlona", "la historia", "lady gaga"],
+        "minutes_listened": 56852,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["the beatles", "oasis", "bob dylan", "cage the elephant", "george harrison"],
+        "top_song": ["shakermaker", "like a rolling stone", "it takes a lot to try", "i want you", "blow away"],
+        "minutes_listened": 17751,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["maka", "myke towers", "saiko", "anuel aa", "feid"],
+        "top_song": ["x'clusivo-remix", "la falda", "fardos", "oa", "bad gyal"],
+        "minutes_listened": 10687,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["arde bogotá", "izal", "losniñosdelcaminito", "drake", "dellafuente"],
+        "top_song": ["rosin", "beso (fruta fresca)", "sin vergüenza", "lady writer", "carreteras infinitas"],
+        "minutes_listened": 34798,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["amaia", "el mato a un policía motorizado", "rosalía", "mujeres", "c.tangana"],
+        "top_song": ["nanai", "aute cuture", "fumas?", "encendedor", "bravo murillo"],
+        "minutes_listened": 26145,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["natos y waor", "estopa", "extremoduro", "jarfaite", "kaos urbano"],
+        "top_song": ["kiero", "amarna", "juanito manoverde", "hoy volví a beber", "corona de espinas"],
+        "minutes_listened": 36811,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["la fuga", "extremoduro", "fito y fitipaldis", "estopa", "marea"],
+        "top_song": ["noviembre", "whisky barato", "corazón de mimbre", "entre la espada y la pared", "jaleo"],
+        "minutes_listened": 29764,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["mvrk", "sticky m.a.", "grecas", "l'haine", "duki"],
+        "top_song": ["niebla", "yo jamas", "videochat", "casper", "sol"],
+        "minutes_listened": 19324,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["kanye west", "¥$", "mgk", "walls", "travis scott"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["one direction", "rauw alejandro", "myke towers", "jay wheeler", "marlon"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["taylor swift", "one direction", "chappel roan", "hozier", "glee cast"],
+        "top_song": ["american teenager", "femininomenon", "red wine supernova", "naked in manhattan", "crush"],
+        "minutes_listened": 38579,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["ana mena", "olivia rodrigo", "aitana", "belén aguilera", "sabrina carpenter"],
+        "top_song": ["la razón", "thelma & louise", "so american", "mis nenas", "lolita"],
+        "minutes_listened": 67352,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["lana del rey", "one direction", "peso pluma", "fontaines d.c.", "julieta venegas"],
+        "top_song": ["quema", "new slang", "igual que un angel", "dakota", "good luck, babe!"],
+        "minutes_listened": 52334,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["young miko", "twenty one pilots", "c.tangana", "bizarrap", "sen senra"],
+        "top_song": ["young miko: bzrp music session", "mwah :3", "arcoíris", "rookie of the year", "curita"],
+        "minutes_listened": 20465,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["sabrina carpenter", null, null, null, null],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["bad bunny", "rauw alejandro", "el alfa", "coldplay", "bring me the horizon"],
+        "top_song": ["all the stars (with sza)", "diluvio", "la santa", "perro negro", "singapur"],
+        "minutes_listened": 43501,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["leïti", "travis scott", "darci", "yeat", "bring me the horizon"],
+        "top_song": ["salmos 23", "badasf", "dame un break", "young & faded", "good morning"],
+        "minutes_listened": 38991,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["ill pequeño", "young beef", "al safir", "hoke", "cruz cafuné"],
+        "top_song": ["t4 barajas", "electric bby", "liit", "whap", "órale"],
+        "minutes_listened": 48603,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["dellafuente", "feid", "recycledj", "relsb", "bad bunny"],
+        "top_song": ["no hay manera", "150 canciones", "talking shit", "recycledj-selecta motoseries #07", "perro negro"],
+        "minutes_listened": 60022,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["charli xcx", "björk", "eartheater", "arca", "magdalena boy"],
+        "top_song": ["colid liquid gas", "spill the milk", "crushing", "360", "mitosis"],
+        "minutes_listened": 43664,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["slow j", "nathy peluso", "kanye west", "milo j", "c.tangana"],
+        "top_song": ["fogo", "see you again", "movezz en silencio", "la presa", "nadie sabe"],
+        "minutes_listened": 34587,
+        "genre": null
+    },
+    {
+        "top_artists": ["samuraï", "marina reche", "jay wheeler", "bm", "lia kali"],
+        "top_song": ["corazón", "palabra prohibida", "al alba", "young miko: bzrp music session", "agora"],
+        "minutes_listened": 37507,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["las deblas", null, null, null, null],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["lana del rey", "nightwish", "amanda seyfried", "mike oldfield", "kanye west"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["luna ki", "la oreja de van gogh", "el alfa", "britney spears", "nathy peluso"],
+        "top_song": ["rosas", "cuídate", "geografia", "dulce locura", "la playa"],
+        "minutes_listened": 25992,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["lia kali", "sticky fingers", "alizzz", "la plazuela", "rosalía"],
+        "top_song": ["despertar", "contra todo pronostico", "rosas y pistolas", "lunch", "inri"],
+        "minutes_listened": 32278,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["mik petras", "charli xcx", "rakky ripper", "inna", "beyoncé"],
+        "top_song": ["head head honcho", "cokblocker", "get fucked", "b2b", "butt slutt"],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["natos y waor", "al safir", "pnl", "yovngchimi", "anuel aa"],
+        "top_song": ["gloria", "gata only", "quiero volar", "mal fario", "0 confianza"],
+        "minutes_listened": 18696,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["pink floyd", "mitski", "alcalá norte", "this will destroy you", "twice"],
+        "top_song": ["la vida cañón", "la calle elfo", "supermán", "no llores, dr g", "los chavales"],
+        "minutes_listened": 68658,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["chase & status", "rj pasin", "kanye west", "ptasinski", "baya baye mgt los sosis"],
+        "top_song": ["baddadan", "disconnect", "power rangers", "consider", "heroes 2.0"],
+        "minutes_listened": 15896,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["cruz cafuné", "saske", "israel b", "ergo pro", "cookin soul"],
+        "top_song": ["enter to the anbu", "price tag", "qb players", "alexademie", "rang€rov€r"],
+        "minutes_listened": 20972,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["meghan trainor", "rupatrupa", "nil moliner", "estopa", "macaco"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["jc reyes", "grecas", "dei v", "grind", "camin"],
+        "top_song": ["badgyal", "comuna 3", "suano", "diabólica", "colalé"],
+        "minutes_listened": 31394,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["l'haine", "sticky m.a.", "tarchi", "bad gyal", "judeline"],
+        "top_song": ["dolorosa", "giovanni de luca", "celine", "lebron en cleveland", "golphone"],
+        "minutes_listened": 23828,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["saiko", "alejo", "raul clyde", "mora", "omar courtz"],
+        "top_song": ["hey bb", "monty", "cosas que no te dije", "joyyy", "bien :("],
+        "minutes_listened": 55496,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["jungle", "cigarettes after sex", "billie ellish", "chappell roan", "taylor swift"],
+        "top_song": ["stockholmsvy", "love survive", "sticky season", "bodyguard", "in this wolrd"],
+        "minutes_listened": 37388,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["soge culebra", "hard gz", "jado pvg", "delgao", "quevedo"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["desakato", "sick legend", "metallica", "skillet", "architects"],
+        "top_song": ["glaza", "heartless", "higher", "the car", "find your flame"],
+        "minutes_listened": 53317,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["cruz_cafune", "bad bunny", "brockhampton", "ralphie choo", "travis scott"],
+        "top_song": ["4prez", "besame", "mwah :3", "gitana", "modelito"],
+        "minutes_listened": 28532,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["$uicideboy$", "grim salvo", "derek pope", "freddie dredd", "mossback"],
+        "top_song": ["the giver", "baphomet", "beyond the scarlet courtain", "avalon", "in constant sorrow"],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["CMAT", null, null, null, null],
+        "top_song": ["where are your kids tonight?", "I don't really care for you", "nashville", "i wanna be a cowboy, baby!", "stay for something"],
+        "minutes_listened": null,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["taylor swift", "feid", "andy & lucas", "plan b", "bad bunny"],
+        "top_song": ["por que te demoras?", "caile", "poker face", "salgo pa'la calle", "classy 101"],
+        "minutes_listened": 13428,
+        "genre": "women"
+    },
+    {
+        "top_artists": ["yeat", "drake", "hi-c", "lil wayne", "young thug"],
+        "top_song": ["psycho ceo", "keep pushing", "figure it out", "u should know", "paran01d"],
+        "minutes_listened": 51090,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["hard gz", "nadal015", "natos y waor", "hoke", "luck"],
+        "top_song": ["cae la noche", "entrar aqui", "mortales", "desamparados", "lacosta"],
+        "minutes_listened": 60085,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["rvfv", "emilia", "rauw alejandro", "tiago pzk", "eminem"],
+        "top_song": [null, null, null, null, null],
+        "minutes_listened": null,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["mother mother", "pink floyd", "radiohead", "arctic monkeys", "eminem"],
+        "top_song": ["505", "verbatim", "exit music(for a film)", "the great gig in the sky", "time-2011"],
+        "minutes_listened": 11586,
+        "genre": "male"
+    },
+    {
+        "top_artists": ["sam cisco", "chill heaven", "aurora", "ken ashcorp", "toby fox"],
+        "top_song": ["how i fell in love", "kids", "babel", "dancing while the world burns", "emotion engine"],
+        "minutes_listened": 56295,
+        "genre": "male"
+    }
+]
